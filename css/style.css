@@ -661,7 +661,6 @@ body {
 
 .power {
   display: block;
-  width: 30%;
   text-align: right;
 }
 
@@ -1766,8 +1765,6 @@ body {
 
   .study {
     display: flex;
-    margin-top: 20px;
-    width: 100%;
   }
 
   .study1 {
@@ -1777,9 +1774,9 @@ body {
   }
 
   .power {
-    display: block;
+    /* display: block;
     width: 25%;
-    text-align: right;
+    text-align: right; */
   }
 
   .education {
@@ -1790,7 +1787,6 @@ body {
 
   .file {
     display: block;
-    width: 100%;
   }
 
   .file1 {
@@ -1937,12 +1933,7 @@ body {
 
   .divider {
     position: absolute;
-    top: 0px;
     left: 81px;
-    bottom: 0;
-    width: 2px;
-    background-color: #444;
-    height: 100%;
   }
 
   .divider1 {
